@@ -6,7 +6,7 @@ export default function App() {
     <View>
        <Text>google Baba</Text>
       <Button
-      title='Google Button'
+      title='You touch here'
       onPress={()=>alert("ji")}
       />
      
