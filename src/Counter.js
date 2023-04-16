@@ -14,7 +14,11 @@ import { IncrementAction,DecrementAction} from './actions/myaction';
                 <Text> {this.props.myCounter} </Text>
                 <Button title='Decrement'
                  onPress={()=> {this.props.Decrement() }}/>
-                 <>featue</>
+
+               
+
+                 <Text>Heloo dksdlmlsdldsl</Text>
+
            
             </View>
         )
