@@ -11,8 +11,8 @@
   },
   "dependencies": {
     "@react-native-community/cli": "^10.0.0",
-    "@react-native-firebase/app": "^16.4.6",
-    "@react-native-firebase/messaging": "^16.4.6",
+    "@react-native-firebase/app": "^18.3.2",
+    "@react-native-firebase/messaging": "^18.3.2",
     "react": "18.1.0",
     "react-native": "0.70.6",
     "react-native-rename": "^2.9.0"
